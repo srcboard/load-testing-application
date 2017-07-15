@@ -1,0 +1,7 @@
+<properties>
+    <url>https://</url>
+    <numberRequestsPerSecond>500</numberRequestsPerSecond>
+    <testDurationInSeconds>5</testDurationInSeconds>
+    <logFolder>logs/</logFolder>
+    <outputFolder>statistics/</outputFolder>
+</properties>
